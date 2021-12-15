@@ -6,3 +6,12 @@
 html{
     font-size: 10px;
 }
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+body{
+    background-color: gray;
+}
